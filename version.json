@@ -2,6 +2,6 @@
   "version": "2.0.0",
   "releaseDate": "2026-06-12",
   "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/latest/download/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Version initiale. Détection hardware WMI, vérification pilotes, GameBoost Safe/Max/Custom.",
+  "releaseNotes": "Correction de l'affichage température CPU, mise à jour LibreHardwareMonitor, export diagnostic et lancement du diagnostic complet réservés à la version Pro, nouvelle icône d'application.",
   "minOsVersion": "10.0.19041"
 }
