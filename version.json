@@ -1,7 +1,7 @@
 {
   "version": "2.0.1",
   "releaseDate": "2026-06-15",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.0.1/NovaDriveGameBoost-Setup.exe",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/2.0.1/NovaDriveGameBoost-Setup.exe",
   "releaseNotes": "Nouveauté : optimisation automatique au lancement des jeux (AutoBoost).",
   "minOsVersion": "10.0.19041"
 }
