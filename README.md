@@ -41,4 +41,4 @@ Licence Pro à vie, paiement unique de 29,99 € : https://novadrivegameboost.li
 
 ## 🆘 Support
 
-support@novadrive-gameboost.com
+support@little-angel-warrior.fr
