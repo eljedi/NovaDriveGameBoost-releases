@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "releaseDate": "2026-06-15",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/2.0.2/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Correctifs : installation des runtimes manquants (Visual C++ 2013/2010, .NET 7/8/9), statut d'optimisation affiché sur la ligne du jeu.",
+  "version": "2.0.3",
+  "releaseDate": "2026-06-16",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/2.0.3/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Localisation dynamique : le changement de langue (FR/EN) s'applique instantanément sans redémarrer l'application.",
   "minOsVersion": "10.0.19041"
 }
