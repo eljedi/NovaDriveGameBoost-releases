@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "releaseDate": "2026-06-16",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/2.0.3/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Localisation dynamique : le changement de langue (FR/EN) s'applique instantanément sans redémarrer l'application.",
+  "version": "2.1.0",
+  "releaseDate": "2026-06-17",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.1.0/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Activation en ligne, mise à jour automatique, rapport de crash et statistiques d'utilisation.",
   "minOsVersion": "10.0.19041"
 }
