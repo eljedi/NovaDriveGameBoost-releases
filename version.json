@@ -3,5 +3,6 @@
   "releaseDate": "2026-06-17",
   "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.0/NovaDriveGameBoost-Setup.exe",
   "releaseNotes": "Gestionnaire de démarrage, gestionnaire de processus, optimiseur DNS, nettoyeur cache navigateurs, plan d'alimentation rapide, AutoBoost, Overlay in-game, Nettoyeur RAM, VRAM Monitor.",
-  "minOsVersion": "10.0.19041"
+  "minOsVersion": "10.0.19041",
+  "sha256": "EDA725464B8B9D5EF0AFC018C405A061E9D683A79500EDFD492A3782225C3CF9"
 }
