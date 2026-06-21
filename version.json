@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "releaseDate": "2026-06-17",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.0/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Gestionnaire de démarrage, gestionnaire de processus, optimiseur DNS, nettoyeur cache navigateurs, plan d'alimentation rapide, AutoBoost, Overlay in-game, Nettoyeur RAM, VRAM Monitor.",
+  "version": "2.3.1",
+  "releaseDate": "2026-06-21",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.1/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Détection du fabricant RAM via PartNumber, fermeture complète de l'app (corrige le process qui restait en tâche de fond), export de rapport désormais réservé à la licence Pro, vérification d'intégrité (SHA-256) des mises à jour, badge de licence repensé dans l'interface, lecture de température CPU plus stable, nouveau diagnostic du profil XMP/EXPO et de l'intégrité des fichiers Windows.",
   "minOsVersion": "10.0.19041",
-  "sha256": "EDA725464B8B9D5EF0AFC018C405A061E9D683A79500EDFD492A3782225C3CF9"
+  "sha256": "6774F02792BF4991A7E906F73E1E0BE5B4522189913BC64614768D2C9B28E884"
 }
