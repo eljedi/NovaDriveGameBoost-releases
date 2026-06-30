@@ -1,8 +1,8 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.3",
   "releaseDate": "2026-06-30",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.2/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Correctif majeur pour le contournement du bug WMI de Windows (restitution des 8 Go de VRAM sur la RTX 4060 et recalcul du score de performance). Correction de l'algorithme du test de stress CPU pour capturer le delta thermique thermique réel en charge (résout le bug du +0°C). Résolution de l'incrémentation fantôme dans le compteur global des composants du diagnostic matériel.",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.3/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Correctif majeur pour le contournement du bug WMI de Windows (restitution de la VRAM réelle sur les cartes graphiques NVIDIA GeForce et AMD Radeon, dont la RX 9060 XT et la RTX 4060, et recalcul du score de performance). Correction de l'algorithme du test de stress CPU pour capturer le delta thermique réel en charge. Résolution de l'incrémentation fantôme dans le compteur global des composants du diagnostic matériel.",
   "minOsVersion": "10.0.19041",
   "sha256": "E17A77F7E276DF769BC555EA354BE91761189B9D98AD037CB0053281A1541298"
 }
