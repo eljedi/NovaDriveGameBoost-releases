@@ -1,8 +1,8 @@
 {
-  "version": "2.3.1",
-  "releaseDate": "2026-06-21",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.1/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Détection du fabricant RAM via PartNumber, fermeture complète de l'app (corrige le process qui restait en tâche de fond), export de rapport désormais réservé à la licence Pro, vérification d'intégrité (SHA-256) des mises à jour, badge de licence repensé dans l'interface, lecture de température CPU plus stable, nouveau diagnostic du profil XMP/EXPO et de l'intégrité des fichiers Windows.",
+  "version": "2.3.2",
+  "releaseDate": "2026-06-30",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.2/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Correctif majeur pour le contournement du bug WMI de Windows (restitution des 8 Go de VRAM sur la RTX 4060 et recalcul du score de performance). Correction de l'algorithme du test de stress CPU pour capturer le delta thermique thermique réel en charge (résout le bug du +0°C). Résolution de l'incrémentation fantôme dans le compteur global des composants du diagnostic matériel.",
   "minOsVersion": "10.0.19041",
-  "sha256": "789AB3C4DF31D9BB3435035E2EA79B383ED59AB9193762E30BD8AE5909D0F803"
+  "sha256": "6561DF73D4FE6771C7A44C04F0DE3DE80D401085949C163FA925DECF13BE1A9C"
 }
