@@ -4,5 +4,5 @@
   "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.3.3/NovaDriveGameBoost-Setup.exe",
   "releaseNotes": "Correctif majeur pour le contournement du bug WMI de Windows (restitution de la VRAM réelle sur les cartes graphiques NVIDIA GeForce et AMD Radeon, dont la RX 9060 XT et la RTX 4060, et recalcul du score de performance). Correction de l'algorithme du test de stress CPU pour capturer le delta thermique réel en charge. Résolution de l'incrémentation fantôme dans le compteur global des composants du diagnostic matériel.",
   "minOsVersion": "10.0.19041",
-  "sha256": "267535F46158C427A147D540C74598C20B891F10D10FF7C19DAF1661F949B535"
+  "sha256": "744C8E0A208A0C27D23F5E6852CFCEF7E5706AF543E23E815549F15AE23A81F9"
 }
