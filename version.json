@@ -4,5 +4,5 @@
   "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.0/NovaDriveGameBoost-Setup.exe",
   "releaseNotes": "Mise à jour majeure de fiabilité. Sécurité : licence repensée en signature asymétrique (ECDSA) et consentement RGPD pour la télémétrie. Diagnostic et Benchmark rendus honnêtes : température CPU réelle sous charge (fini le delta simulé), lecture du journal d'événements accélérée, vraie bande passante mémoire, et le test « GPU » clairement identifié comme un rendu logiciel CPU. Tableau de bord : score de performance désormais calculé sur le matériel réel (CPU, VRAM, RAM, stockage). Correction de la détection VRAM (contournement du bug WMI 32 bits — RTX 4060 enfin vue en 8 Go). GameBoost : plan « Performances optimales » réparé et restauration ciblée. Moniteur et Processus sans scintillement (sélection préservée). Pilotes, DNS/réseau, démarrage et nettoyeur améliorés, plus de nombreux correctifs d'affichage.",
   "minOsVersion": "10.0.19041",
-  "sha256": "0BD75C9D0C456B1DA353B1270F5BA5324F05A276F24A17E6A1A381E633145BA5"
+  "sha256": "FC7862C3A2DA1E334F86ABEB3D8DA7DDC1C41830D81E4A88094FEB31E94B7511"
 }
