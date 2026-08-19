@@ -4,5 +4,5 @@
   "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.3/NovaDriveGameBoost-Setup.exe",
   "releaseNotes": "La page Réseau détecte désormais la carte que vous utilisez réellement pour sortir sur Internet et n'affiche que les optimisations utiles à votre matériel : en Wi-Fi, carte sans fil en performances maximales avec la bande, le niveau de signal et la norme affichés ; en Ethernet, Ethernet à économie d'énergie, contrôle de flux et modération d'interruptions ; dans les deux cas, Windows ne peut plus mettre la carte en veille et sa limitation du trafic réseau est levée. Nouveau bouton Mesurer : latence, gigue et perte de paquets vers votre box puis vers Internet, avec un verdict qui distingue un problème de réseau local d'un problème de fournisseur d'accès. Corrections : les optimisations réseau et les actions GameBoost restaient en anglais après un changement de langue, et le résumé réseau pouvait afficher une carte virtuelle (VPN, machine virtuelle) au lieu de votre vraie connexion.",
   "minOsVersion": "10.0.19041",
-  "sha256": "B164A471AD6049C1949E59561931C25798C9BA77A40DFC92BA620987B387C0DC"
+  "sha256": "0d57de489f88cc1fa2ccd35f7ffa4f1456c7bbc68a33b622fc12730b5e7ab685"
 }
