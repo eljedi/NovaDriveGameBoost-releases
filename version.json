@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "releaseDate": "2026-08-12",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.1/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Correctif d'activation Pro en ligne : la licence est désormais signée côté serveur (ECDSA P-256) et vérifiée par l'app — l'activation par clé fonctionne enfin. Inclut aussi toutes les améliorations 2.4.0 : score de performance calculé sur le vrai matériel, détection VRAM corrigée (RTX 4060 en 8 Go), diagnostic honnête (température CPU réelle, journal accéléré), vraie bande passante mémoire au benchmark, GameBoost « Performances optimales » réparé, Moniteur/Processus sans scintillement, DNS/réseau et pilotes améliorés, consentement RGPD pour la télémétrie et vérification d'intégrité SHA-256 des mises à jour.",
+  "version": "2.4.2",
+  "releaseDate": "2026-08-19",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.2/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Application entièrement bilingue français / anglais : l'interface ET tous les textes générés par l'application (actions GameBoost, optimisations réseau, cibles du nettoyeur, résultats du diagnostic, recommandations, notifications, messages de licence) changent de langue depuis Paramètres. Nouveau : nettoyage du disque système avec niveau de risque affiché — cache Windows Update, vidages mémoire, restes d'installation Windows et installeurs oubliés à la racine ; rien n'est supprimé sans votre accord et vos dossiers personnels ne sont jamais touchés. Nouveau : contrôles de sécurité dans le diagnostic (protection Defender, pare-feu, fichier hosts détourné, programmes suspects au démarrage). Nouveau : nettoyage automatique planifié (quotidien, hebdomadaire ou mensuel), désactivé par défaut. Corrections : cases à cocher invisibles dans le Nettoyeur et le Réseau, plantage au démarrage lié à une liaison de données, et textes tronqués sur les cartes de profil GameBoost.",
   "minOsVersion": "10.0.19041",
-  "sha256": "710A79EBDDD03319B59AE3240A8DA8FCC313537AABF8867F755AC7140A611246"
+  "sha256": "CCA79801543C155C99718AA684D791FC1EEBF47D28DA747A7490ABF4D38A4B07"
 }
