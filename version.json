@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "releaseDate": "2026-08-19",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.2/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Application entièrement bilingue français / anglais : l'interface ET tous les textes générés par l'application (actions GameBoost, optimisations réseau, cibles du nettoyeur, résultats du diagnostic, recommandations, notifications, messages de licence) changent de langue depuis Paramètres. Nouveau : nettoyage du disque système avec niveau de risque affiché — cache Windows Update, vidages mémoire, restes d'installation Windows et installeurs oubliés à la racine ; rien n'est supprimé sans votre accord et vos dossiers personnels ne sont jamais touchés. Nouveau : contrôles de sécurité dans le diagnostic (protection Defender, pare-feu, fichier hosts détourné, programmes suspects au démarrage). Nouveau : nettoyage automatique planifié (quotidien, hebdomadaire ou mensuel), désactivé par défaut. Corrections : cases à cocher invisibles dans le Nettoyeur et le Réseau, plantage au démarrage lié à une liaison de données, et textes tronqués sur les cartes de profil GameBoost.",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.3/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "La page Réseau détecte désormais la carte que vous utilisez réellement pour sortir sur Internet et n'affiche que les optimisations utiles à votre matériel : en Wi-Fi, carte sans fil en performances maximales avec la bande, le niveau de signal et la norme affichés ; en Ethernet, Ethernet à économie d'énergie, contrôle de flux et modération d'interruptions ; dans les deux cas, Windows ne peut plus mettre la carte en veille et sa limitation du trafic réseau est levée. Nouveau bouton Mesurer : latence, gigue et perte de paquets vers votre box puis vers Internet, avec un verdict qui distingue un problème de réseau local d'un problème de fournisseur d'accès. Corrections : les optimisations réseau et les actions GameBoost restaient en anglais après un changement de langue, et le résumé réseau pouvait afficher une carte virtuelle (VPN, machine virtuelle) au lieu de votre vraie connexion.",
   "minOsVersion": "10.0.19041",
-  "sha256": "CCA79801543C155C99718AA684D791FC1EEBF47D28DA747A7490ABF4D38A4B07"
+  "sha256": "B164A471AD6049C1949E59561931C25798C9BA77A40DFC92BA620987B387C0DC"
 }
