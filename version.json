@@ -4,5 +4,5 @@
   "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.4/NovaDriveGameBoost-Setup.exe",
   "releaseNotes": "Fin de l'alerte antivirus : l'application n'installe plus le pilote WinRing0, signalé comme vulnérable par Windows Defender (CVE-2020-14979). La lecture des capteurs passe désormais par PawnIO, signé et validé par Microsoft. Installation propre : l'installeur désinstalle automatiquement l'ancienne version, ferme l'application si elle tourne et supprime les pilotes résiduels, tout en préservant votre licence Pro et vos réglages. Le Moniteur temps réel (CPU, GPU, RAM, températures) est désormais entièrement gratuit. Inclut la 2.4.3 : détection automatique Wi-Fi ou Ethernet avec les optimisations adaptées à votre matériel, et mesure de la latence, de la gigue et de la perte de paquets vers votre box puis vers Internet.",
   "minOsVersion": "10.0.19041",
-  "sha256": "f23806c50d9abead6a9e1ee5eeccdb4caa5f2fc1e8575580b3661e5a841ef24a"
+  "sha256": "6030d96f4eb3c5db903e43946ade38436af1da71d36f792fb5942f589bb40581"
 }
