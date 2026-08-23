@@ -1,8 +1,8 @@
 {
-  "version": "2.4.3",
-  "releaseDate": "2026-08-19",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.3/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "La page Réseau détecte désormais la carte que vous utilisez réellement pour sortir sur Internet et n'affiche que les optimisations utiles à votre matériel : en Wi-Fi, carte sans fil en performances maximales avec la bande, le niveau de signal et la norme affichés ; en Ethernet, Ethernet à économie d'énergie, contrôle de flux et modération d'interruptions ; dans les deux cas, Windows ne peut plus mettre la carte en veille et sa limitation du trafic réseau est levée. Nouveau bouton Mesurer : latence, gigue et perte de paquets vers votre box puis vers Internet, avec un verdict qui distingue un problème de réseau local d'un problème de fournisseur d'accès. Corrections : les optimisations réseau et les actions GameBoost restaient en anglais après un changement de langue, et le résumé réseau pouvait afficher une carte virtuelle (VPN, machine virtuelle) au lieu de votre vraie connexion.",
+  "version": "2.4.4",
+  "releaseDate": "2026-08-23",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.4/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Fin de l'alerte antivirus : l'application n'installe plus le pilote WinRing0, signalé comme vulnérable par Windows Defender (CVE-2020-14979). La lecture des capteurs passe désormais par PawnIO, signé et validé par Microsoft. Installation propre : l'installeur désinstalle automatiquement l'ancienne version, ferme l'application si elle tourne et supprime les pilotes résiduels, tout en préservant votre licence Pro et vos réglages. Le Moniteur temps réel (CPU, GPU, RAM, températures) est désormais entièrement gratuit. Inclut la 2.4.3 : détection automatique Wi-Fi ou Ethernet avec les optimisations adaptées à votre matériel, et mesure de la latence, de la gigue et de la perte de paquets vers votre box puis vers Internet.",
   "minOsVersion": "10.0.19041",
-  "sha256": "9a6cdd844bc07decfeca61442fe0a11877170a133d1b65ae782c94a063edbd08"
+  "sha256": "f23806c50d9abead6a9e1ee5eeccdb4caa5f2fc1e8575580b3661e5a841ef24a"
 }
