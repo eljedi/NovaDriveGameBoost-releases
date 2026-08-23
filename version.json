@@ -1,8 +1,8 @@
 {
-  "version": "2.4.5",
-  "releaseDate": "2026-08-23",
-  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.5/NovaDriveGameBoost-Setup.exe",
-  "releaseNotes": "Nouveau : un bouton « Tout annuler » dans Paramètres remet Windows dans l'état où il était avant vos boosts — plan d'alimentation, services, priorité CPU, HPET et réglages réseau — quelle que soit la page depuis laquelle vous les aviez appliqués. Nouveau : une case « Mesurer le gain réel » dans GameBoost lance un benchmark avant et après l'optimisation et affiche l'écart réellement obtenu, en annonçant « aucun écart mesurable » plutôt qu'un gain imaginaire quand la différence est dans la marge d'erreur. Le menu des langues ne propose plus que celles réellement traduites : choisir une langue incomplète donnait jusqu'ici une interface en français. Le message sur les températures CPU indisponibles explique désormais la vraie cause et propose un lien direct vers PawnIO.",
-  "minOsVersion": "10.0.19041",
-  "sha256": "88047534db020ccca0f285dfe81d0f7fe24f52785afc90ba46fd4fc15123ae77"
+    "version":  "2.4.6",
+    "releaseDate":  "2026-08-23",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.6/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "L\u0027application est désormais disponible en espagnol, traduite intégralement (866 textes, interface et messages générés compris). Nouveau : une carte au bas du Nettoyeur classe par taille les dossiers qui remplissent réellement votre disque — Téléchargements, Documents, Vidéos, données d\u0027applications et bibliothèques Steam, Epic et Xbox — avec un bouton pour les ouvrir dans l\u0027Explorateur ; l\u0027application ne supprime rien ici, ce sont vos fichiers personnels. Nouveau : après un scan matériel, GameBoost annonce le profil adapté à votre machine, explique pourquoi, et présélectionne les optimisations correspondantes en un clic, sans rien appliquer sans votre validation. Enfin, le menu des langues ne propose plus que celles réellement traduites : choisir une langue incomplète donnait jusqu\u0027ici une interface en français.",
+    "minOsVersion":  "10.0.19041",
+    "sha256":  "310ba5796373dec3a75307cd8d243e033923619a2e3ef02965d996cb3b7f6ad8"
 }
