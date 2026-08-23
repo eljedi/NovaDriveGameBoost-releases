@@ -1,8 +1,8 @@
-﻿{
-    "version":  "2.4.5",
-    "releaseDate":  "2026-08-23",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.5/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Nouveau : un bouton Â« Tout annuler Â» dans ParamÃ¨tres remet Windows dans l\u0027Ã©tat oÃ¹ il Ã©tait avant vos boosts â€” plan d\u0027alimentation, services, prioritÃ© CPU, HPET et rÃ©glages rÃ©seau â€” quelle que soit la page depuis laquelle vous les aviez appliquÃ©s. Nouveau : une case Â« Mesurer le gain rÃ©el Â» dans GameBoost lance un benchmark avant et aprÃ¨s l\u0027optimisation et affiche l\u0027Ã©cart rÃ©ellement obtenu, en annonÃ§ant Â« aucun Ã©cart mesurable Â» plutÃ´t qu\u0027un gain imaginaire quand la diffÃ©rence est dans la marge d\u0027erreur. Le menu des langues ne propose plus que celles rÃ©ellement traduites : choisir une langue incomplÃ¨te donnait jusqu\u0027ici une interface en franÃ§ais. Le message sur les tempÃ©ratures CPU indisponibles explique dÃ©sormais la vraie cause et propose un lien direct vers PawnIO.",
-    "minOsVersion":  "10.0.19041",
-    "sha256":  "88047534db020ccca0f285dfe81d0f7fe24f52785afc90ba46fd4fc15123ae77"
+{
+  "version": "2.4.5",
+  "releaseDate": "2026-08-23",
+  "downloadUrl": "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.5/NovaDriveGameBoost-Setup.exe",
+  "releaseNotes": "Nouveau : un bouton « Tout annuler » dans Paramètres remet Windows dans l'état où il était avant vos boosts — plan d'alimentation, services, priorité CPU, HPET et réglages réseau — quelle que soit la page depuis laquelle vous les aviez appliqués. Nouveau : une case « Mesurer le gain réel » dans GameBoost lance un benchmark avant et après l'optimisation et affiche l'écart réellement obtenu, en annonçant « aucun écart mesurable » plutôt qu'un gain imaginaire quand la différence est dans la marge d'erreur. Le menu des langues ne propose plus que celles réellement traduites : choisir une langue incomplète donnait jusqu'ici une interface en français. Le message sur les températures CPU indisponibles explique désormais la vraie cause et propose un lien direct vers PawnIO.",
+  "minOsVersion": "10.0.19041",
+  "sha256": "88047534db020ccca0f285dfe81d0f7fe24f52785afc90ba46fd4fc15123ae77"
 }
