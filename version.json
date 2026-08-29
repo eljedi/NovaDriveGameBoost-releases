@@ -1,8 +1,8 @@
 {
-    "version":  "2.4.7",
-    "releaseDate":  "2026-08-27",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.7/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "La page Activation s\u0027adapte désormais à votre licence : une fois Pro active, le formulaire laisse place à l\u0027état réel de votre licence — clé masquée, date d\u0027activation et date d\u0027expiration (ou « Jamais — licence à vie »). Un bouton « Désactiver sur ce PC » vous permet de transférer votre licence sur une autre machine sans passer par le support, la licence restant valide. Le passage Pro ou Gratuit se répercute immédiatement sur toute l\u0027application, sans redémarrage. Corrections : dans GameBoost, le bandeau de profil conseillé et l\u0027option de mesure du gain se chevauchaient ; le sous-titre de la page Activation invitait à activer une licence déjà active.",
+    "version":  "2.4.8",
+    "releaseDate":  "2026-08-29",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.8/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Vous pouvez désormais ajouter vous-même les jeux que l\u0027application ne détecte pas. NovaDrive cherche vos jeux dans Steam, Epic, Xbox, EA, GOG, Battle.net et Ubisoft Connect : tout ce qui vit en dehors de ces bibliothèques lui était invisible — serveurs privés, jeux portables, émulateurs, clients moddés. Un bouton « Ajouter un jeu » dans Jeux \u0026 Bottleneck vous laisse désigner l\u0027exécutable, et le jeu rejoint la liste comme n\u0027importe quel autre, éligible à l\u0027optimisation par jeu et à l\u0027AutoBoost au lancement. Les jeux ajoutés à la main sont mémorisés d\u0027une session à l\u0027autre et peuvent être retirés d\u0027un clic.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "8c72325659e78b0071cffc280877ebbb1a0229c95809ad53684d11ffd66c1012"
+    "sha256":  "0cefc29a6a7ecdbb7826863c9b856d3282eef404512c5d8fecfb8e807cc613c4"
 }
