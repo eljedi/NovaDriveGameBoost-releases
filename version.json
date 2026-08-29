@@ -1,8 +1,8 @@
 {
-    "version":  "2.4.8",
+    "version":  "2.4.9",
     "releaseDate":  "2026-08-29",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.8/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Vous pouvez désormais ajouter vous-même les jeux que l\u0027application ne détecte pas. NovaDrive cherche vos jeux dans Steam, Epic, Xbox, EA, GOG, Battle.net et Ubisoft Connect : tout ce qui vit en dehors de ces bibliothèques lui était invisible — serveurs privés, jeux portables, émulateurs, clients moddés. Un bouton « Ajouter un jeu » dans Jeux \u0026 Bottleneck vous laisse désigner l\u0027exécutable, et le jeu rejoint la liste comme n\u0027importe quel autre, éligible à l\u0027optimisation par jeu et à l\u0027AutoBoost au lancement. Les jeux ajoutés à la main sont mémorisés d\u0027une session à l\u0027autre et peuvent être retirés d\u0027un clic.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.9/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "L\u0027optimisation par jeu fait enfin quelque chose de réel. NovaDrive vise désormais le vrai processus du jeu au lieu du lanceur, et déprioritise pendant la partie les navigateurs, Discord et clients de synchronisation qui volaient du temps processeur — c\u0027est là qu\u0027est le gain. Rien n\u0027est jamais fermé, le système et l\u0027audio ne sont jamais touchés, et tout revient à la normale à la fermeture du jeu. S\u0027ajoute une préférence GPU hautes performances par jeu, de loin le réglage qui rapporte le plus d\u0027images par seconde sur un PC à double carte graphique. Les jeux protégés par un anti-triche refusent tout changement de priorité : NovaDrive vous le dit clairement au lieu d\u0027un « accès refusé » opaque, et applique les autres optimisations.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "0cefc29a6a7ecdbb7826863c9b856d3282eef404512c5d8fecfb8e807cc613c4"
+    "sha256":  "81d29b0fda26f7b56ece14fb8b909dbd6f92f7a66e5b8ff7fac5f51bcb2af4df"
 }
