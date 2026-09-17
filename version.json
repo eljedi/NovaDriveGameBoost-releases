@@ -1,8 +1,8 @@
 {
-    "version":  "2.4.9",
-    "releaseDate":  "2026-08-29",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.4.9/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "L\u0027optimisation par jeu fait enfin quelque chose de réel. NovaDrive vise désormais le vrai processus du jeu au lieu du lanceur, et déprioritise pendant la partie les navigateurs, Discord et clients de synchronisation qui volaient du temps processeur — c\u0027est là qu\u0027est le gain. Rien n\u0027est jamais fermé, le système et l\u0027audio ne sont jamais touchés, et tout revient à la normale à la fermeture du jeu. S\u0027ajoute une préférence GPU hautes performances par jeu, de loin le réglage qui rapporte le plus d\u0027images par seconde sur un PC à double carte graphique. Les jeux protégés par un anti-triche refusent tout changement de priorité : NovaDrive vous le dit clairement au lieu d\u0027un « accès refusé » opaque, et applique les autres optimisations.",
+    "version":  "2.5.0",
+    "releaseDate":  "2026-09-17",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.5.0/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Désinstaller pour de bon. Une nouvelle page liste tout ce qui est installé sur votre PC, avec une case par ligne : cochez ce dont vous ne voulez plus et NovaDrive enchaîne les désinstallations, l\u0027une après l\u0027autre. Les jeux se désinstallent depuis Jeux \u0026 Bottleneck, applications du Microsoft Store comprises — elles n\u0027écrivent rien dans le registre et étaient jusqu\u0027ici hors de portée. Et surtout, NovaDrive cherche ensuite ce que chaque désinstallation laisse derrière elle : les dossiers de réglages et de cache que personne ne nettoie. Il distingue ce qui se recalcule de ce qui ne revient jamais — les données personnelles ne sont jamais cochées d\u0027office. Bibliothèques partagées, pilotes et composants Windows sont signalés et nommés un par un avant toute suppression : les retirer casse d\u0027autres logiciels sans que le lien soit évident sur le moment.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "81d29b0fda26f7b56ece14fb8b909dbd6f92f7a66e5b8ff7fac5f51bcb2af4df"
+    "sha256":  "f5a5c5f520f06e909b6d7b97b6ba6dc2bd32869674677ddf95bab7a512089257"
 }
