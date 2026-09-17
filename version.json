@@ -1,8 +1,8 @@
 {
-    "version":  "2.5.1",
+    "version":  "2.5.2",
     "releaseDate":  "2026-09-17",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.5.1/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "La désinstallation va maintenant jusqu\u0027au bout. NovaDrive nettoie enfin le registre, où les logiciels laissent leurs réglages sans que personne aille les chercher — en se limitant aux branches Software, et en n\u0027y touchant jamais aux clés partagées de Windows ou des fabricants. Il trouve aussi les dossiers portant un nom différent du logiciel, grâce au dossier d\u0027installation déclaré par l\u0027éditeur. Un nouveau champ permet de chercher les restes d\u0027un logiciel désinstallé bien avant, par NovaDrive ou par Windows. Correction importante : NovaDrive pouvait annoncer « 0 Mo libérés » après avoir réellement effacé des centaines de mégaoctets, parce que la suppression abandonnait au premier fichier verrouillé. Elle se fait désormais fichier par fichier, et le message indique ce qui a vraiment été libéré ainsi que ce qui reste à faire.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.5.2/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "La page « Programmes installés » est désormais correctement réservée à la licence Pro. Jusqu\u0027ici seul le bouton portait le badge, sans qu\u0027aucune action ne vérifie réellement la licence : analyse, recherche de restes, suppression et désinstallation sont toutes verrouillées. Un bandeau explique ce que fait la page et rappelle que l\u0027essai de sept jours est inclus, plutôt que de laisser cliquer sur des boutons qui ne répondent pas.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "07842254e8bf4b66afc60cb6bc20286ad574c3ec2f5921d77ca70a11c5a080cd"
+    "sha256":  "f004a46d68863f453bd3649c37b312c5b7e868549d8369da6edeace80fa4850f"
 }
