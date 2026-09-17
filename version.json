@@ -1,8 +1,8 @@
 {
-    "version":  "2.5.0",
+    "version":  "2.5.1",
     "releaseDate":  "2026-09-17",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.5.0/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Désinstaller pour de bon. Une nouvelle page liste tout ce qui est installé sur votre PC, avec une case par ligne : cochez ce dont vous ne voulez plus et NovaDrive enchaîne les désinstallations, l\u0027une après l\u0027autre. Les jeux se désinstallent depuis Jeux \u0026 Bottleneck, applications du Microsoft Store comprises — elles n\u0027écrivent rien dans le registre et étaient jusqu\u0027ici hors de portée. Et surtout, NovaDrive cherche ensuite ce que chaque désinstallation laisse derrière elle : les dossiers de réglages et de cache que personne ne nettoie. Il distingue ce qui se recalcule de ce qui ne revient jamais — les données personnelles ne sont jamais cochées d\u0027office. Bibliothèques partagées, pilotes et composants Windows sont signalés et nommés un par un avant toute suppression : les retirer casse d\u0027autres logiciels sans que le lien soit évident sur le moment.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.5.1/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "La désinstallation va maintenant jusqu\u0027au bout. NovaDrive nettoie enfin le registre, où les logiciels laissent leurs réglages sans que personne aille les chercher — en se limitant aux branches Software, et en n\u0027y touchant jamais aux clés partagées de Windows ou des fabricants. Il trouve aussi les dossiers portant un nom différent du logiciel, grâce au dossier d\u0027installation déclaré par l\u0027éditeur. Un nouveau champ permet de chercher les restes d\u0027un logiciel désinstallé bien avant, par NovaDrive ou par Windows. Correction importante : NovaDrive pouvait annoncer « 0 Mo libérés » après avoir réellement effacé des centaines de mégaoctets, parce que la suppression abandonnait au premier fichier verrouillé. Elle se fait désormais fichier par fichier, et le message indique ce qui a vraiment été libéré ainsi que ce qui reste à faire.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "f5a5c5f520f06e909b6d7b97b6ba6dc2bd32869674677ddf95bab7a512089257"
+    "sha256":  "07842254e8bf4b66afc60cb6bc20286ad574c3ec2f5921d77ca70a11c5a080cd"
 }
