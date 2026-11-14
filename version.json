@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.4",
+    "version":  "2.6.5",
     "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.4/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Réseau : le DNS le plus rapide, et le gain mesuré. La ligne DNS applique désormais le serveur le plus rapide mesuré depuis votre connexion. Nouvelle case « Mesurer le gain réel » : latence, gigue et pertes avant et après l\u0027optimisation. Nouveau réglage pour désactiver le regroupement de paquets, et réglages de pilote dédiés aux cartes Wi-Fi (économie d\u0027énergie, itinérance, bande 5 GHz). Les statistiques anonymes ne se perdent plus quand Windows s\u0027éteint ou qu\u0027une mise à jour ferme l\u0027application.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.5/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Après chaque mise à jour, un bandeau présente désormais les nouveautés de la version installée, une seule fois, avec un lien vers le changelog complet. Les règles des réglages de carte réseau sont maintenant vérifiées par des tests automatiques.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "44a85a85bb9b411b42de2d64e46c7f28974a093ce8c6ae26199445d7309c40d8"
+    "sha256":  "9497ab80619fd1353250075e9a2abb7863dc092535b99b2c1af6aa0d62e599a6"
 }
