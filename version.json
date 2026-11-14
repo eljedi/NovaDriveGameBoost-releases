@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.7",
+    "version":  "2.6.8",
     "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.7/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Correction du bandeau bleu vide affiché en haut de la fenêtre depuis la 2.6.5 : il présente désormais les nouveautés de la version, ses boutons « Voir le changelog » et « Fermer » fonctionnent, et il disparaît une fois fermé. Les liens vers le site s\u0027ouvrent dans votre navigateur habituel.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.8/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Page Pilotes repensée : un résumé clair en haut (tout est à jour ou combien de mises à jour, date de la dernière vérification), le type de chaque composant (carte graphique, carte mère, audio, réseau…), la dernière version disponible sous la version installée, des filtres avec compteurs et des explications au survol de chaque statut. Les boutons « Page officielle » et « Télécharger » ouvrent enfin la page dans votre navigateur.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "8b2102a5d58dc16fa3a4644f02bccf6315a1d5f5dff0ab40207ec2628baad0ee"
+    "sha256":  "9a46f3a1a889c7aa3e9bcf6813eb6f5939fbe0482312da84d2c3dbff9f97e78a"
 }
