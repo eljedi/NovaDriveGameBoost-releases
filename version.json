@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.5",
+    "version":  "2.6.7",
     "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.5/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Après chaque mise à jour, un bandeau présente désormais les nouveautés de la version installée, une seule fois, avec un lien vers le changelog complet. Les règles des réglages de carte réseau sont maintenant vérifiées par des tests automatiques.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.7/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Correction du bandeau bleu vide affiché en haut de la fenêtre depuis la 2.6.5 : il présente désormais les nouveautés de la version, ses boutons « Voir le changelog » et « Fermer » fonctionnent, et il disparaît une fois fermé. Les liens vers le site s\u0027ouvrent dans votre navigateur habituel.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "9497ab80619fd1353250075e9a2abb7863dc092535b99b2c1af6aa0d62e599a6"
+    "sha256":  "8b2102a5d58dc16fa3a4644f02bccf6315a1d5f5dff0ab40207ec2628baad0ee"
 }
