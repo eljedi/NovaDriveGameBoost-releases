@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.0",
-    "releaseDate":  "2026-09-17",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.0/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Votre PC depuis votre téléphone. Une application compagnon vous permet de suivre les températures, la charge et l\u0027espace disque de votre PC pendant que vous jouez — ou quand vous n\u0027êtes pas devant. Elle s\u0027installe depuis le site, sans passer par l\u0027App Store ni Google Play, et fonctionne sur iPhone, Android et ordinateur. L\u0027association se fait par un code à huit caractères affiché dans Paramètres et saisi sur le téléphone : il passe par vos yeux, jamais par le réseau. Rien n\u0027est transmis tant que vous n\u0027avez pas coché la case, décochée par défaut, et le texte indique exactement ce qui part et à quelle fréquence. Un PC sans relevé depuis deux minutes passe hors ligne plutôt que d\u0027afficher une température périmée comme si elle était actuelle.",
+    "version":  "2.6.1",
+    "releaseDate":  "2026-11-14",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.1/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Boost de la carte réseau. La section Réseau règle désormais la carte elle-même, en plus des optimisations Windows déjà présentes. Trois profils réservés à la licence Pro : Gaming (latence minimale : Energy Efficient Ethernet, contrôle de flux et modération des interruptions désactivés), Équilibré (réglages habituels d\u0027un pilote récent) et Économie d\u0027énergie. Le profil s\u0027applique à toutes les cartes physiques actives ; les réglages qu\u0027une carte ne propose pas sont simplement ignorés.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "bbab05abd891e81e12f6dcbcf61835fe0b1ebda0b44f5d1f5107b44c7ea8e5f4"
+    "sha256":  "3087d0de8b218d6c110dfea2bbb0e1fa1e2ad9f3d46fc8dded0764eb9901633c"
 }
