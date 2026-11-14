@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.1",
+    "version":  "2.6.2",
     "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.1/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Boost de la carte réseau. La section Réseau règle désormais la carte elle-même, en plus des optimisations Windows déjà présentes. Trois profils réservés à la licence Pro : Gaming (latence minimale : Energy Efficient Ethernet, contrôle de flux et modération des interruptions désactivés), Équilibré (réglages habituels d\u0027un pilote récent) et Économie d\u0027énergie. Le profil s\u0027applique à toutes les cartes physiques actives ; les réglages qu\u0027une carte ne propose pas sont simplement ignorés.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.2/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Réseau : un seul endroit pour régler la carte. La carte « Boost carte réseau » ajoutée en 2.6.1 faisait double emploi avec le tableau des optimisations et a été retirée. Le tableau gagne deux lignes pour les connexions Ethernet : activer la répartition multi-cœur (RSS) et désactiver le réveil par le réseau (décochée par défaut). Les réglages appliqués en 2.6.1 restent en place.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "3087d0de8b218d6c110dfea2bbb0e1fa1e2ad9f3d46fc8dded0764eb9901633c"
+    "sha256":  "0110e2bb4648a4f0c39e1c3078796824069e7ce2ff8fe38a2d67a8aa788547da"
 }
