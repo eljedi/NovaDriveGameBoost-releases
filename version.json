@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.2",
+    "version":  "2.6.3",
     "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.2/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Réseau : un seul endroit pour régler la carte. La carte « Boost carte réseau » ajoutée en 2.6.1 faisait double emploi avec le tableau des optimisations et a été retirée. Le tableau gagne deux lignes pour les connexions Ethernet : activer la répartition multi-cœur (RSS) et désactiver le réveil par le réseau (décochée par défaut). Les réglages appliqués en 2.6.1 restent en place.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.3/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Réseau : des réglages taillés pour votre carte. NovaDrive lit les réglages du pilote de votre carte Ethernet et adapte la liste : les réglages absents sont masqués, ceux déjà au bon niveau sont décochés. Trois nouveaux réglages : garder le lien à pleine vitesse, utiliser toutes les files de réception (RSS) et agrandir les tampons de la carte. Les réglages sont appliqués avec une seule courte coupure réseau, et la restauration remet exactement vos valeurs d\u0027origine.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "0110e2bb4648a4f0c39e1c3078796824069e7ce2ff8fe38a2d67a8aa788547da"
+    "sha256":  "561fe0b2d7a28bb22d8ef933d1cf7700a156af0e68c310d0c07cf46aec8f34fe"
 }
