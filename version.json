@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.3",
+    "version":  "2.6.4",
     "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.3/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Réseau : des réglages taillés pour votre carte. NovaDrive lit les réglages du pilote de votre carte Ethernet et adapte la liste : les réglages absents sont masqués, ceux déjà au bon niveau sont décochés. Trois nouveaux réglages : garder le lien à pleine vitesse, utiliser toutes les files de réception (RSS) et agrandir les tampons de la carte. Les réglages sont appliqués avec une seule courte coupure réseau, et la restauration remet exactement vos valeurs d\u0027origine.",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.4/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Réseau : le DNS le plus rapide, et le gain mesuré. La ligne DNS applique désormais le serveur le plus rapide mesuré depuis votre connexion. Nouvelle case « Mesurer le gain réel » : latence, gigue et pertes avant et après l\u0027optimisation. Nouveau réglage pour désactiver le regroupement de paquets, et réglages de pilote dédiés aux cartes Wi-Fi (économie d\u0027énergie, itinérance, bande 5 GHz). Les statistiques anonymes ne se perdent plus quand Windows s\u0027éteint ou qu\u0027une mise à jour ferme l\u0027application.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "561fe0b2d7a28bb22d8ef933d1cf7700a156af0e68c310d0c07cf46aec8f34fe"
+    "sha256":  "44a85a85bb9b411b42de2d64e46c7f28974a093ce8c6ae26199445d7309c40d8"
 }
