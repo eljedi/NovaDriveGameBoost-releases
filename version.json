@@ -1,8 +1,8 @@
 {
-    "version":  "2.6.8",
-    "releaseDate":  "2026-11-14",
-    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.8/NovaDriveGameBoost-Setup.exe",
-    "releaseNotes":  "Page Pilotes repensée : un résumé clair en haut (tout est à jour ou combien de mises à jour, date de la dernière vérification), le type de chaque composant (carte graphique, carte mère, audio, réseau…), la dernière version disponible sous la version installée, des filtres avec compteurs et des explications au survol de chaque statut. Les boutons « Page officielle » et « Télécharger » ouvrent enfin la page dans votre navigateur.",
+    "version":  "2.6.9",
+    "releaseDate":  "2026-11-17",
+    "downloadUrl":  "https://github.com/eljedi/NovaDriveGameBoost-releases/releases/download/v2.6.9/NovaDriveGameBoost-Setup.exe",
+    "releaseNotes":  "Page Pilotes : NovaDrive passe maintenant en revue TOUS les périphériques du PC (chipset, Bluetooth, contrôleurs…) et cherche le pilote le plus récent sur Windows Update. Bouton « Installer » : téléchargement et installation directement dans l\u0027appli, avec un point de restauration créé juste avant. Cartes mères MSI : comparaison avec le dernier BIOS stable publié (affichage seulement, jamais de flash automatique). Tableau de bord : le plan d\u0027alimentation actif s\u0027affiche enfin, fabricants et noms raccourcis (AMD au lieu d\u0027AuthenticAMD), révision du microcode du processeur.",
     "minOsVersion":  "10.0.19041",
-    "sha256":  "9a46f3a1a889c7aa3e9bcf6813eb6f5939fbe0482312da84d2c3dbff9f97e78a"
+    "sha256":  "a347aafe4b68072331ad5fa1aeeffc483b8322761ad0a7773f6e92fecde7d943"
 }
